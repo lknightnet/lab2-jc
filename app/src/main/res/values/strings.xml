@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="title_activity_box">BoxActivity</string>
+    <string name="title_activity_column">ColumnActivity</string>
+    <string name="title_activity_row">RowActivity</string>
+    <string name="title_activity_view">ViewActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+</resources>
